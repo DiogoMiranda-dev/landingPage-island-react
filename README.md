@@ -26,7 +26,7 @@ Um evento online e totalmente gratuito que o ajudará a dar o próximo passo na 
 ## :page_facing_up:🚀 Sobre o Projeto
 
 Neste projeto busquei praticar um pouco mais sobre o React.js e Api.\
-Utilizando alguns conceitos básicos do React.js, componentes e organização de pastas dentro de um projeto Web Moderno.\
+Utilizando alguns conceitos básicos do React.js, componentes e organização de pastas dentro de um projeto Web Moderno.
 
 ## :computer: Demo
 
